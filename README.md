@@ -25,7 +25,7 @@ python3 -m tobrot
 
 #### For Queries and support, contact [SDBOTs](https://telegram.dog/SDBOTz)
 
-## Special Credits, and Thanks to Beloved Developers ;
+## Special Credits
 
 * [SpEcHlDe](https://telegram.dog/SpEcHlDe) 
 * [Dan Tès](https://telegram.dog/haskell) 
